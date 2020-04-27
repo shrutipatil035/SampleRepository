@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This file is for practise purpose. Added some points.
+=======
+This file is for practise purpose.
+helllo am shital 
+>>>>>>> c2119f04d53cd37b1a986db3ad275cde2cb6963c
